@@ -1,0 +1,6 @@
+[submodule "robust_loss_pytorch"]
+   path = robust_loss_pytorch
+   url = https://github.com/ks-7-afk/robust_loss_pytorch.git
+[submodule "Hierarchical-Localization"]
+   path = Hierarchical-Localization
+   url = https://github.com/ks-7-afk/Hierarchical-Localization.git

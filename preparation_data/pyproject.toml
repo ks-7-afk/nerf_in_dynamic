@@ -1,0 +1,13 @@
+[project]
+name = "preparation_data"
+version = "0.1.1"
+
+dependencies=[
+    "hloc",
+    "imageio-ffmpeg",
+    "nerfstudio",
+    "open3d==0.16.0",
+]
+
+[tool.setuptools.packages.find]
+include = ["preparation_data*"]
