@@ -63,9 +63,9 @@ To train the model, run the following command:
         --pipeline.datamanager.camera-optimizer.mode off
 
 ```
---output-dir: Specifies the directory where the training outputs (model, logs, etc.) will be saved.
+`--output-dir`: Specifies the directory where the training outputs (model, logs, etc.) will be saved.
 
---data: Path to the directory containing the RGB images for training.
+`--data`: Path to the directory containing the RGB images for training.
 ## Evaluate
 To evaluate the trained model, run the following command:
 ```bash
@@ -74,11 +74,11 @@ To evaluate the trained model, run the following command:
 --output-path output.json \
 --render-output-path $OUTPUT_RENDER
 ```
---load-config: Path to the configuration file in $OUTPUT_DIR.
+`--load-config`: Path to the configuration file in $OUTPUT_DIR.
 
---output-path: Path to save the evaluation metrics in a JSON file (PSNR, SSIM, LPIPS).
+`--output-path`: Path to save the evaluation metrics in a JSON file (PSNR, SSIM, LPIPS).
 
---render-output-path: Path to save the rendered output image.
+`--render-output-path`: Path to save the rendered output image.
 
 <table>
     <tr>
