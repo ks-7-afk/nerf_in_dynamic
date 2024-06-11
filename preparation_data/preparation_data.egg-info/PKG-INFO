@@ -1,7 +1,0 @@
-Metadata-Version: 2.1
-Name: preparation_data
-Version: 0.1.1
-Requires-Dist: hloc
-Requires-Dist: imageio-ffmpeg
-Requires-Dist: nerfstudio
-Requires-Dist: open3d==0.16.0

@@ -1,6 +1,0 @@
-pyproject.toml
-preparation_data.egg-info/PKG-INFO
-preparation_data.egg-info/SOURCES.txt
-preparation_data.egg-info/dependency_links.txt
-preparation_data.egg-info/requires.txt
-preparation_data.egg-info/top_level.txt
